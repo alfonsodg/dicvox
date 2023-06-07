@@ -1,0 +1,39 @@
+Computed Radiography,CR
+Computed Tomography,CT
+Magnetic Resonance,MR
+Ultrasound,US
+Other,OT
+Biomagnetic imaging,BI
+Color flow Doppler,CD
+Duplex Doppler,DD
+Diaphanography,DG
+Endoscopy,ES
+Laser surface scan,LS
+Positron emission tomography (PET),PT
+Radiographic imaging (conventional film/screen),RG
+Single-photon emission computed tomography (SPECT),ST
+Thermography,TG
+X-Ray Angiography,XA
+Radio Fluoroscopy,RF
+Radiotherapy Image,RTIMAGE
+Radiotherapy Dose,RTDOSE
+Radiotherapy Structure Set,RTSTRUCT
+Radiotherapy Plan,RTPLAN
+RT Treatment Record,RTRECORD
+Hard Copy,HC
+Digital Radiography,DX
+Nuclear Medicine,NM
+Mammography,MG
+Intra-oral Radiography,IO
+Panoramic X-Ray,PX
+General Microscopy,GM
+Slide Microscopy,SM
+External-camera Photography,XC
+Presentation State,PR
+Audio ECG,AU
+Cardiac Electrophysiology,EPS
+Hemodynamic Waveform,HD
+SR Document,SR
+Intravascular Ultrasound,IVUS
+Ophthalmic Photography,OP
+Stereometric Relationship,SMR
